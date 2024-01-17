@@ -9,40 +9,6 @@
 </head>
 <body>
 
-    <!-- <header class="text-gray-600 body-font bg-zinc-900">
-        <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-          <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-    
-          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAABCCAYAAADjVADoAAAABmJLR0QA/wD/AP+gvaeTAAACmUlEQVR4nO3aP2gTYRjH8e977ZCTpCHSIjpoF13908nFTXFxULCLugui0KH+w4YjLVQLoeDkLOpQwVkrOHfx36i4WFEHCyFNbArqPQ59FUl7zb3xTaLl+Yy5u+ee+93dm+O9A6WUUkoppZRSSinVE6adjeoTnBU4DWxrWhQbw+vGKpNDM9T+vr31vlwmF2aYEGE/EDQtXjHwMDvJPde6/a4bLE9wWAx3SQhR4FgmJAQuutZOI5NhWuBC0ikUOFGNeJePWHCp25xoSwYO0upKEkZc6zo41GK5CX60XGcd5yBSbtPWLZdSmtrOx9VOEFvSpmNEvcgYcEkgD8zlSpzvTlt+1IrcAUYNVIHb2RKzSesmXhHVG+wVKAsMAwVZ/w/xz7M9FwSGBcrLEfuS1k0Moq+fPXT2Xu82E6yd1A3pGGFpEJYGYf3+16gXOSowjfAhN8lJH8VljLCaZ6ePWvkqn80sDR+1akUeAbsNXMuWeAo2CAFThwfAoBhiHzsD+JrjSF/MY0+1jgNPfNQysEtgROC+wA4DEgBUrjAADPrYyX9myB67jhG/aBCWBmFpEJYGYQUAhZAasNTjXnphqXCLZbDPESYirkeckZibRvjoay8S8I2Yirdangh8Al6agKsGBP54ssxGzAPzvnYGkIt4Bmz3WdOHXIlTzb/pGGFpEJYGYSUGEcMidiDZIiT+zvukhYlBDES8NTDOWiAVAyud6K6TbM8VYNHA+MAUb5LW3XQWO1uiDJQ999c1dtY91cy7jhFWO0Gkmbjp5NiSprbz5JJzEHEfL1o2Y3juWje11rXF9ujE+W14PmKhXuScCKNs9FlAwKtGgynXummtNrgehqxIzAE2+izAMOf6JlwppZRSSimllFJK9dBPt2GhAuWOHs8AAAAASUVORK5CYII=">
-        <span class="ml-3 text-orange-400 text-2xl">H-Fitness</span>
-          </a>
-          <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-            <a href="index.php" class="mr-5 text-white hover:text-orange-500">Home</a>
-            <a href="services.php" class="mr-5 text-white hover:text-orange-500 ">Services</a>
-            <a href="about us.php" class="mr-5 text-white text-orange-500">About Us</a>
-            <a href="contact us.php" class="mr-5 text-white hover:text-orange-500">Contact</a>
-          </nav>
-          <button
-        class="inline-flex mr-3 items-center bg-gray-800 text-orange-500 border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0"> <a href="login.php">Login</a> 
-        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-          class="w-4 h-4 ml-1" viewBox="0 0 24 24">
-          <path d="M5 12h14M12 5l7 7-7 7"></path>
-        </svg>
-      </button>
-
-      <button
-        class="inline-flex items-center bg-gray-800 text-orange-500 border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0"> <a href="register.php">Register</a> 
-        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-          class="w-4 h-4 ml-1" viewBox="0 0 24 24">
-          <path d="M5 12h14M12 5l7 7-7 7"></path>
-        </svg>
-      </button>
-        </div>
-      </header> -->
-
-
-
-
       <nav class="bg-zinc-900 border-gray-200 px-2 md:px-4  py-2.5 dark:bg-gray-900">
     <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
         <a href="https://flowbite.com" class="flex items-center">
@@ -239,43 +205,6 @@
                     </div>
                 </div>
               </div>
-
-
-              <!-- <div class="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5">
-                <div class="flex">
-                  <span class="mr-3">Color</span>
-                  <button class="border-2 border-gray-300 rounded-full w-6 h-6 focus:outline-none"></button>
-                  <button class="border-2 border-gray-300 ml-1 bg-gray-700 rounded-full w-6 h-6 focus:outline-none"></button>
-                  <button class="border-2 border-gray-300 ml-1 bg-indigo-500 rounded-full w-6 h-6 focus:outline-none"></button>
-                </div>
-                <div class="flex ml-6 items-center">
-                  <span class="mr-3">Size</span>
-                  <div class="relative">
-                    <select class="rounded border appearance-none border-gray-300 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 text-base pl-3 pr-10">
-                      <option>SM</option>
-                      <option>M</option>
-                      <option>L</option>
-                      <option>XL</option>
-                    </select>
-                    <span class="absolute right-0 top-0 h-full w-10 text-center text-gray-600 pointer-events-none flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4" viewBox="0 0 24 24">
-                        <path d="M6 9l6 6 6-6"></path>
-                      </svg>
-                    </span>
-                  </div>
-                </div>
-              </div> -->
-
-
-              <!-- <div class="flex">
-                <span class="title-font font-medium text-2xl text-gray-900">$58.00</span>
-                <button class="flex ml-auto text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded">Button</button>
-                <button class="rounded-full w-10 h-10 bg-gray-200 p-0 border-0 inline-flex items-center justify-center text-gray-500 ml-4">
-                  <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                    <path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"></path>
-                  </svg>
-                </button>
-              </div> -->
             </div>
           </div>
         </div>
