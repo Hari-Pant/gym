@@ -9,52 +9,9 @@
   <!-- <link rel="stylesheet" href="style.css"> -->
   <title>GYM Fitness</title>
 
-
-
-  
-
-
 </head>
 
 <body >
-
-  <!-- <header class="text-gray-600 body-font bg-zinc-900">
-    <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-      <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-
-      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAABCCAYAAADjVADoAAAABmJLR0QA/wD/AP+gvaeTAAACmUlEQVR4nO3aP2gTYRjH8e977ZCTpCHSIjpoF13908nFTXFxULCLugui0KH+w4YjLVQLoeDkLOpQwVkrOHfx36i4WFEHCyFNbArqPQ59FUl7zb3xTaLl+Yy5u+ee+93dm+O9A6WUUkoppZRSSinVE6adjeoTnBU4DWxrWhQbw+vGKpNDM9T+vr31vlwmF2aYEGE/EDQtXjHwMDvJPde6/a4bLE9wWAx3SQhR4FgmJAQuutZOI5NhWuBC0ikUOFGNeJePWHCp25xoSwYO0upKEkZc6zo41GK5CX60XGcd5yBSbtPWLZdSmtrOx9VOEFvSpmNEvcgYcEkgD8zlSpzvTlt+1IrcAUYNVIHb2RKzSesmXhHVG+wVKAsMAwVZ/w/xz7M9FwSGBcrLEfuS1k0Moq+fPXT2Xu82E6yd1A3pGGFpEJYGYf3+16gXOSowjfAhN8lJH8VljLCaZ6ePWvkqn80sDR+1akUeAbsNXMuWeAo2CAFThwfAoBhiHzsD+JrjSF/MY0+1jgNPfNQysEtgROC+wA4DEgBUrjAADPrYyX9myB67jhG/aBCWBmFpEJYGYQUAhZAasNTjXnphqXCLZbDPESYirkeckZibRvjoay8S8I2Yirdangh8Al6agKsGBP54ssxGzAPzvnYGkIt4Bmz3WdOHXIlTzb/pGGFpEJYGYSUGEcMidiDZIiT+zvukhYlBDES8NTDOWiAVAyud6K6TbM8VYNHA+MAUb5LW3XQWO1uiDJQ999c1dtY91cy7jhFWO0Gkmbjp5NiSprbz5JJzEHEfL1o2Y3juWje11rXF9ujE+W14PmKhXuScCKNs9FlAwKtGgynXummtNrgehqxIzAE2+izAMOf6JlwppZRSSimllFJK9dBPt2GhAuWOHs8AAAAASUVORK5CYII=">
-        <span class="ml-3 text-orange-400 text-2xl">H-Fitness</span>
-      </a>
-      <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-        <a href="index.php" class="mr-5  text-orange-500">Home</a>
-        <a href="services.php" class="mr-5 text-white hover:text-orange-500">Services</a>
-        <a href="about us.php" class="mr-5 text-white hover:text-orange-500">About Us</a>
-        <a href="contact us.php" class="mr-5 text-white hover:text-orange-500">Contact</a>
-        
-        
-      </nav>
-      <button
-        class="inline-flex mr-3 items-center bg-gray-800 text-orange-500 border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0"> <a href="login.php">Login</a> 
-        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-          class="w-4 h-4 ml-1" viewBox="0 0 24 24">
-          <path d="M5 12h14M12 5l7 7-7 7"></path>
-        </svg>
-      </button>
-
-      <button
-        class="inline-flex items-center bg-gray-800 text-orange-500 border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0"> <a href="register.php">Register</a> 
-        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-          class="w-4 h-4 ml-1" viewBox="0 0 24 24">
-          <path d="M5 12h14M12 5l7 7-7 7"></path>
-        </svg>
-      </button>
-    </div>
-  </header> -->
-
-
-
-
-
   
 <nav class="bg-zinc-900 border-gray-200 px-2 md:px-4  py-2.5 dark:bg-gray-900">
     <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
@@ -229,120 +186,7 @@
   </section>
 
 
-
-
-
-  <!-- <section class="text-gray-600 body-font">
-    <div class="container px-5 py-24 mx-auto">
-      <div class="flex flex-col text-center w-full mb-20">
-        <p class="lg:w-2/3 mx-auto leading-relaxed text-base">OUR CLASSES</p>
-        <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">WHAT WE CAN OFFER</h1>
-      </div>
-      <div class="flex flex-wrap -m-4">
-        <div class="lg:w-1/3 sm:w-1/2 p-4">
-          <div class="flex relative">
-            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/600x360/?fitness">
-            <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-              <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"></h2>
-              <p class="leading-relaxed">STRENGTH</p>
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">WEIGHTLIFTING</h1>
-            </div>
-          </div>
-        </div>
-        <div class="lg:w-1/3 sm:w-1/2 p-4">
-          <div class="flex relative">
-            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/601x361/?fitness">
-            <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-              <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The Catalyzer</h1>
-              <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
-            </div>
-          </div>
-        </div>
-        <div class="lg:w-1/3 sm:w-1/2 p-4">
-          <div class="flex relative">
-            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/603x363/?fitness">
-            <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-              <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The 400 Blows</h1>
-              <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
-            </div>
-          </div>
-        </div>
-        <div class="lg:w-1/3 sm:w-1/2 p-4">
-          <div class="flex relative">
-            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/602x362/?fitness">
-            <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-              <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Neptune</h1>
-              <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
-            </div>
-          </div>
-        </div>
-        <div class="lg:w-1/3 sm:w-1/2 p-4">
-          <div class="flex relative">
-            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/605x365/?fitness">
-            <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-              <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
-              <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
-            </div>
-          </div>
-        </div>
-        <div class="lg:w-1/3 sm:w-1/2 p-4">
-          <div class="flex relative">
-            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/606x366/?fitness">
-            <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-              <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
-              <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-
-
-
-
-
-  <!-- <section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <div class="flex w-full mb-20 flex-wrap">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">Master Cleanse Reliac Heirloom</h1>
-      <p class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
-    </div>
-    <div class="flex flex-wrap md:-m-2 -m-1">
-      <div class="flex flex-wrap w-1/2">
-        <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://source.unsplash.com/500x300/?fitness">
-        </div>
-        <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://source.unsplash.com/501x301/?fitness">
-        </div>
-        <div class="md:p-2 p-1 w-full">
-          <img alt="gallery" class="w-full h-full object-cover object-center block" src="https://dummyimage.com/600x360">
-        </div>
-      </div>
-      <div class="flex flex-wrap w-1/2">
-        
-        <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" src="https://dummyimage.com/502x302">
-        </div>
-        <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://dummyimage.com/503x303">
-        </div>
-        <div class="md:p-2 p-1 w-full">
-            <img alt="gallery" class="w-full h-full object-cover object-center block" src="https://dummyimage.com/601x361">
-          </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-
-
-
+	
 
   <section class="text-gray-600 h-full body-font bg-gray-200">
     <div class="">
@@ -662,14 +506,6 @@
               <a href="appointment.php" class="mt-3 p-3 px-5 w-40 text-white inline-flex mt-10 items-center border-2 border-orange-500">APPOINTMENT</a>
       </div>
 
-      <!-- <div class="  px-5 py-10 ml-auto">
-        <div class="lg:w-2/3 flex flex-col sm:flex-row sm:items-center items-start mx-auto">
-          <h1 class="flex-grow sm:pr-16 text-2xl font-medium title-font text-gray-900"></h1>
-          <button
-            class="mt-3 p-3 px-5 text-white inline-flex mr-4 items-center border-2 border-orange-500">APPOINTMENT</button>
-        </div>
-
-      </div> -->
 
 
     <section class="w-full">
@@ -714,52 +550,7 @@
   
     </section> 
 
-
   </section>
-
-
-
-
-  <!-- <div class="container pb-12 box-border bg-zinc-900 px-5 mr-0">
-    <div class="flex mx-24 flex-wrap ">
-      <div class="p-4 md:w-1/3">
-        <div class="h-full  border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="https://source.unsplash.com/720x400/?boxing" alt="blog">
-          <div class="p-6">
-
-            <h1 class="title-font text-lg font-medium text-white mb-3">Athart Rachel</h1>
-            <p class="leading-relaxed text-gray-400 mb-3">Gym Trainer</p>
-
-          </div>
-        </div>
-      </div>
-      <div class="p-4 md:w-1/3">
-        <div class="h-full  border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="https://source.unsplash.com/721x401/?gym"
-            alt="blog">
-          <div class="p-6">
-
-            <h1 class="title-font text-lg font-medium text-white  mb-3">Athart Rachel</h1>
-            <p class="leading-relaxed text-gray-400 mb-3">Gym Trainer</p>
-
-          </div>
-        </div>
-      </div>
-      <div class="p-4 md:w-1/3">
-        <div class="h-full  border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="https://source.unsplash.com/722x402/?fitness" alt="blog">
-          <div class="p-6">
-
-            <h1 class="title-font text-lg font-medium text-white mb-3">Athart Rachel</h1>
-            <p class="leading-relaxed text-gray-400 mb-3">Gym Trainer</p>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
 
   <hr>
 
